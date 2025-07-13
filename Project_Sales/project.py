@@ -31,3 +31,6 @@ class ManoProjektas(Base):
 
 Base.metadata.create_all(engine)
 
+
+
+
